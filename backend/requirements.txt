@@ -1,0 +1,17 @@
+# Backend Framework
+fastapi
+uvicorn[standard]
+
+# Configuration and Validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# PostgreSQL Database
+psycopg2-binary
+
+# Testing
+pytest
+httpx
+# Cross-platform OS resource monitoring
+psutil>=5.9.6
